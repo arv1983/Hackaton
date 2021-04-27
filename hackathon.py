@@ -18,3 +18,4 @@ print(get_score_3)
 # // A Team Mirum ficou classificada em 1
 
 # ok
+# ok
