@@ -16,3 +16,5 @@ print(get_score_2)
 get_score_3 = get_score("Team Mirum", hackathon_3)
 print(get_score_3)
 # // A Team Mirum ficou classificada em 1
+
+# ok
